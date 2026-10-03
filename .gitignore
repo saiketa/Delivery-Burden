@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+private_config.json
+private_data/
+data/
+work/
+outputs/
+.DS_Store
